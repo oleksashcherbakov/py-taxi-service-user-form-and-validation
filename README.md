@@ -18,8 +18,8 @@ update or delete content from the site.
 1. Implement:
     - `Create`, `Delete` views for `Driver`, 
 2. On the driver list page create a button that leads to the driver creation page.
-3. Create a dr**iver's license update page. The form - `DriverLicenseUpdateForm`
-on this page must check that lice**nse:
+3. Create a driver's license update page. The form - `DriverLicenseUpdateForm`
+on this page must check that license:
     - Consist only of 8 characters
     - First 3 characters are uppercase letters
     - Last 5 characters are digits
